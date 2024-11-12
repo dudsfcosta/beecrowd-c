@@ -67,6 +67,48 @@ build CMakeFiles/beecrowd_c.dir/1002.c.obj: C_COMPILER__beecrowd_c_unscanned_Deb
   OBJECT_DIR = CMakeFiles\beecrowd_c.dir
   OBJECT_FILE_DIR = CMakeFiles\beecrowd_c.dir
 
+build CMakeFiles/beecrowd_c.dir/1003.c.obj: C_COMPILER__beecrowd_c_unscanned_Debug C$:/Users/Administrador/CLionProjects/beecrowd-c/1003.c || cmake_object_order_depends_target_beecrowd_c
+  DEP_FILE = CMakeFiles\beecrowd_c.dir\1003.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\beecrowd_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\beecrowd_c.dir
+
+build CMakeFiles/beecrowd_c.dir/1004.c.obj: C_COMPILER__beecrowd_c_unscanned_Debug C$:/Users/Administrador/CLionProjects/beecrowd-c/1004.c || cmake_object_order_depends_target_beecrowd_c
+  DEP_FILE = CMakeFiles\beecrowd_c.dir\1004.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\beecrowd_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\beecrowd_c.dir
+
+build CMakeFiles/beecrowd_c.dir/1005.c.obj: C_COMPILER__beecrowd_c_unscanned_Debug C$:/Users/Administrador/CLionProjects/beecrowd-c/1005.c || cmake_object_order_depends_target_beecrowd_c
+  DEP_FILE = CMakeFiles\beecrowd_c.dir\1005.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\beecrowd_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\beecrowd_c.dir
+
+build CMakeFiles/beecrowd_c.dir/1006.c.obj: C_COMPILER__beecrowd_c_unscanned_Debug C$:/Users/Administrador/CLionProjects/beecrowd-c/1006.c || cmake_object_order_depends_target_beecrowd_c
+  DEP_FILE = CMakeFiles\beecrowd_c.dir\1006.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\beecrowd_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\beecrowd_c.dir
+
+build CMakeFiles/beecrowd_c.dir/1007.c.obj: C_COMPILER__beecrowd_c_unscanned_Debug C$:/Users/Administrador/CLionProjects/beecrowd-c/1007.c || cmake_object_order_depends_target_beecrowd_c
+  DEP_FILE = CMakeFiles\beecrowd_c.dir\1007.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\beecrowd_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\beecrowd_c.dir
+
+build CMakeFiles/beecrowd_c.dir/1008.c.obj: C_COMPILER__beecrowd_c_unscanned_Debug C$:/Users/Administrador/CLionProjects/beecrowd-c/1008.c || cmake_object_order_depends_target_beecrowd_c
+  DEP_FILE = CMakeFiles\beecrowd_c.dir\1008.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\beecrowd_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\beecrowd_c.dir
+
+build CMakeFiles/beecrowd_c.dir/1009.c.obj: C_COMPILER__beecrowd_c_unscanned_Debug C$:/Users/Administrador/CLionProjects/beecrowd-c/1009.c || cmake_object_order_depends_target_beecrowd_c
+  DEP_FILE = CMakeFiles\beecrowd_c.dir\1009.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\beecrowd_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\beecrowd_c.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target beecrowd_c
@@ -75,7 +117,7 @@ build CMakeFiles/beecrowd_c.dir/1002.c.obj: C_COMPILER__beecrowd_c_unscanned_Deb
 #############################################
 # Link the executable beecrowd_c.exe
 
-build beecrowd_c.exe: C_EXECUTABLE_LINKER__beecrowd_c_Debug CMakeFiles/beecrowd_c.dir/1000.c.obj CMakeFiles/beecrowd_c.dir/1001.c.obj CMakeFiles/beecrowd_c.dir/1002.c.obj
+build beecrowd_c.exe: C_EXECUTABLE_LINKER__beecrowd_c_Debug CMakeFiles/beecrowd_c.dir/1000.c.obj CMakeFiles/beecrowd_c.dir/1001.c.obj CMakeFiles/beecrowd_c.dir/1002.c.obj CMakeFiles/beecrowd_c.dir/1003.c.obj CMakeFiles/beecrowd_c.dir/1004.c.obj CMakeFiles/beecrowd_c.dir/1005.c.obj CMakeFiles/beecrowd_c.dir/1006.c.obj CMakeFiles/beecrowd_c.dir/1007.c.obj CMakeFiles/beecrowd_c.dir/1008.c.obj CMakeFiles/beecrowd_c.dir/1009.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\beecrowd_c.dir
