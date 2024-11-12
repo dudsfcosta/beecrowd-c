@@ -1,0 +1,3 @@
+C:/Users/Administrador/CLionProjects/beecrowd-c/cmake-build-debug/CMakeFiles/beecrowd_c.dir
+C:/Users/Administrador/CLionProjects/beecrowd-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrador/CLionProjects/beecrowd-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
